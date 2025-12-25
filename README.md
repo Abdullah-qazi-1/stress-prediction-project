@@ -24,24 +24,3 @@ This machine learning project predicts university students' stress levels (1-5 s
 
 ## Installation
 1. Clone the repository:
-   ```
-   git clone https://github.com/Abdullah-qazi-1/stress-prediction-project.git
-   ```
-2. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Run the notebook or scripts.
-
-## Usage
-- Open `Project.ipynb` for the full analysis.
-- Use prediction functions in the notebook for stress level predictions.
-- Model saved as `stress_model.pkl`.
-
-## Contributors
-- Abdullah
-- Saad Sadaf
-- Asfaar Maham Ghazi
-
-## License
-MIT License
